@@ -1,0 +1,2 @@
+node PhantomBot.jar
+end
